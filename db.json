@@ -1,4 +1,5 @@
 [
+ {
  'Board Chair',
  'Board Member',
  'Vice Chair',
@@ -8,4 +9,5 @@
  'Board Administration',
  'GSBA Staff',
  'eBOARDsolutions Staff' 
+}
 ]
