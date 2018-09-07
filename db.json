@@ -1,13 +1,13 @@
 [
  {
- 'Board Chair',
- 'Board Member',
- 'Vice Chair',
- 'Superintendent',
- 'Assistant Superintendent',
- 'Superintendent Secretary',
- 'Board Administration',
- 'GSBA Staff',
- 'eBOARDsolutions Staff' 
+ 'label':'Board Chair',
+ 'label':'Board Member',
+ 'label':'Vice Chair',
+ 'label':'Superintendent',
+ 'label':'Assistant Superintendent',
+ 'label':'Superintendent Secretary',
+ 'label':'Board Administration',
+ 'label':'GSBA Staff',
+ 'label':'eBOARDsolutions Staff' 
 }
 ]
