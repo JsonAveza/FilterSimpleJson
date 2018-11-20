@@ -1,7 +1,7 @@
 data:[
- {name:"Android"},
- {name:"IOS"},
- {name:"Windows"},
- {name:"Ubuntu"},
- {name:"RedHotLinux"}
+ {"name":"Android"},
+ {"name":"IOS"},
+ {"name":"Windows"},
+ {"name":"Ubuntu"},
+ {"name":"RedHotLinux"}
 ]
