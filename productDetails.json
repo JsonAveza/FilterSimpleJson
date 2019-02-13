@@ -1,0 +1,258 @@
+[
+  {
+    "itemNumber":"1",
+    "image":"",
+    "company": "XYZ",
+    "parentSku": "W7809",
+    "shortDescription": "K Full Zip",
+    "longDescription": "W7809 K FULL ZIP",
+    "fullDescription": "W7809 K FULL ZIP",
+    "sbuId": "ABC",
+    "commodity": "ZIP",
+    "prodLine": "Zippers",
+    "genderId": "Boys",
+    "itemClass": "Finished Goods",
+    "inventoryType": "Stock",
+    "itemGroup": "Inline Style",
+    "materialDescription": "100% Micro Polyster",
+    "dimensions": {
+      "carton": {
+        "length": 2.5,
+        "width": 3.5,
+        "height": 4.5
+      },
+      "piece": {
+        "length": 2.5,
+        "width": 3.5,
+        "height": 4.5
+      },
+      "weight": {
+        "carton": 5.5,
+        "piece": 6.5
+      }
+    },
+    "pack": {
+      "masterPack": 12,
+      "innerPack1": 3,
+      "innerPack2": 1
+    },
+    "variants": {
+      "sku": "W7809-319XL",
+      "color": "010",
+      "size": "XL",
+      "customer": "",
+      "upc": "721357005837",
+      "status": "active",
+      "retailerCommodity": "",
+      "finiteInventory": "No",
+      "price": {
+        "sellingPrice": 3.2,
+        "retailPrice": 5.5
+      }
+    },
+    {
+    "itemNumber":"2",
+    "image":"",
+    "company": "XYZ",
+    "parentSku": "W7809",
+    "shortDescription": "K Full Zip",
+    "longDescription": "W7809 K FULL ZIP",
+    "fullDescription": "W7809 K FULL ZIP",
+    "sbuId": "ABC",
+    "commodity": "ZIP",
+    "prodLine": "Zippers",
+    "genderId": "Boys",
+    "itemClass": "Finished Goods",
+    "inventoryType": "Stock",
+    "itemGroup": "Inline Style",
+    "materialDescription": "100% Micro Polyster",
+    "dimensions": {
+      "carton": {
+        "length": 2.5,
+        "width": 3.5,
+        "height": 4.5
+      },
+      "piece": {
+        "length": 2.5,
+        "width": 3.5,
+        "height": 4.5
+      },
+      "weight": {
+        "carton": 5.5,
+        "piece": 6.5
+      }
+    },
+    "pack": {
+      "masterPack": 12,
+      "innerPack1": 3,
+      "innerPack2": 1
+    },
+    "variants": {
+      "sku": "W7809-319XL",
+      "color": "010",
+      "size": "XL",
+      "customer": "",
+      "upc": "721357005837",
+      "status": "active",
+      "retailerCommodity": "",
+      "finiteInventory": "No",
+      "price": {
+        "sellingPrice": 3.2,
+        "retailPrice": 5.5
+      }
+    },
+    {
+    "itemNumber":"3",
+    "image":"",
+    "company": "XYZ",
+    "parentSku": "W7809",
+    "shortDescription": "K Full Zip",
+    "longDescription": "W7809 K FULL ZIP",
+    "fullDescription": "W7809 K FULL ZIP",
+    "sbuId": "ABC",
+    "commodity": "ZIP",
+    "prodLine": "Zippers",
+    "genderId": "Boys",
+    "itemClass": "Finished Goods",
+    "inventoryType": "Stock",
+    "itemGroup": "Inline Style",
+    "materialDescription": "100% Micro Polyster",
+    "dimensions": {
+      "carton": {
+        "length": 2.5,
+        "width": 3.5,
+        "height": 4.5
+      },
+      "piece": {
+        "length": 2.5,
+        "width": 3.5,
+        "height": 4.5
+      },
+      "weight": {
+        "carton": 5.5,
+        "piece": 6.5
+      }
+    },
+    "pack": {
+      "masterPack": 12,
+      "innerPack1": 3,
+      "innerPack2": 1
+    },
+    "variants": {
+      "sku": "W7809-319XL",
+      "color": "010",
+      "size": "XL",
+      "customer": "",
+      "upc": "721357005837",
+      "status": "active",
+      "retailerCommodity": "",
+      "finiteInventory": "No",
+      "price": {
+        "sellingPrice": 3.2,
+        "retailPrice": 5.5
+      }
+    },
+    {
+    "itemNumber":"4",
+    "image":"",
+    "company": "XYZ",
+    "parentSku": "W7809",
+    "shortDescription": "K Full Zip",
+    "longDescription": "W7809 K FULL ZIP",
+    "fullDescription": "W7809 K FULL ZIP",
+    "sbuId": "ABC",
+    "commodity": "ZIP",
+    "prodLine": "Zippers",
+    "genderId": "Boys",
+    "itemClass": "Finished Goods",
+    "inventoryType": "Stock",
+    "itemGroup": "Inline Style",
+    "materialDescription": "100% Micro Polyster",
+    "dimensions": {
+      "carton": {
+        "length": 2.5,
+        "width": 3.5,
+        "height": 4.5
+      },
+      "piece": {
+        "length": 2.5,
+        "width": 3.5,
+        "height": 4.5
+      },
+      "weight": {
+        "carton": 5.5,
+        "piece": 6.5
+      }
+    },
+    "pack": {
+      "masterPack": 12,
+      "innerPack1": 3,
+      "innerPack2": 1
+    },
+    "variants": {
+      "sku": "W7809-319XL",
+      "color": "010",
+      "size": "XL",
+      "customer": "",
+      "upc": "721357005837",
+      "status": "active",
+      "retailerCommodity": "",
+      "finiteInventory": "No",
+      "price": {
+        "sellingPrice": 3.2,
+        "retailPrice": 5.5
+      }
+    },
+    {
+    "itemNumber":"5",
+    "image":"",
+    "company": "XYZ",
+    "parentSku": "W7809",
+    "shortDescription": "K Full Zip",
+    "longDescription": "W7809 K FULL ZIP",
+    "fullDescription": "W7809 K FULL ZIP",
+    "sbuId": "ABC",
+    "commodity": "ZIP",
+    "prodLine": "Zippers",
+    "genderId": "Boys",
+    "itemClass": "Finished Goods",
+    "inventoryType": "Stock",
+    "itemGroup": "Inline Style",
+    "materialDescription": "100% Micro Polyster",
+    "dimensions": {
+      "carton": {
+        "length": 2.5,
+        "width": 3.5,
+        "height": 4.5
+      },
+      "piece": {
+        "length": 2.5,
+        "width": 3.5,
+        "height": 4.5
+      },
+      "weight": {
+        "carton": 5.5,
+        "piece": 6.5
+      }
+    },
+    "pack": {
+      "masterPack": 12,
+      "innerPack1": 3,
+      "innerPack2": 1
+    },
+    "variants": {
+      "sku": "W7809-319XL",
+      "color": "010",
+      "size": "XL",
+      "customer": "",
+      "upc": "721357005837",
+      "status": "active",
+      "retailerCommodity": "",
+      "finiteInventory": "No",
+      "price": {
+        "sellingPrice": 3.2,
+        "retailPrice": 5.5
+      }
+    }
+  }
+]  
