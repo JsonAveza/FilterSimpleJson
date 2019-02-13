@@ -1,7 +1,7 @@
- 
+{"data":[
   {
     "itemNumber":"1",
-    "image":"https://github.com/JsonAveza/FilterSimpleJson/blob/master/Image.png",
+    "image":"https://raw.githubusercontent.com/JsonAveza/FilterSimpleJson/master/Image.png",
     "company": "XYZ",
     "parentSku": "W7809",
     "shortDescription": "K Full Zip",
@@ -50,4 +50,5 @@
         "retailPrice": 5.5
       }
     }
- 
+  ]
+  }
