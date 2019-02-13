@@ -1,4 +1,4 @@
-{"data":[
+ [
   {
     "itemNumber":"1",
     "image":"https://raw.githubusercontent.com/JsonAveza/FilterSimpleJson/master/Image.png",
@@ -254,5 +254,4 @@
         "retailPrice": 5.5
       }
     }
-  ]
-  }
+   ]
