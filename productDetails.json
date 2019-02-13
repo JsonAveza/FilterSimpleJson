@@ -2,21 +2,5 @@
   {
     "itemNumber": "1",
     "image": "https://raw.githubusercontent.com/JsonAveza/FilterSimpleJson/master/Image.png"
-  },
-  {
-    "itemNumber": "2",
-    "image": "https://raw.githubusercontent.com/JsonAveza/FilterSimpleJson/master/Image.png"
-  },
-  {
-    "itemNumber": "3",
-    "image": "https://raw.githubusercontent.com/JsonAveza/FilterSimpleJson/master/Image.png"
-  },
-  {
-    "itemNumber": "4",
-    "image": "https://raw.githubusercontent.com/JsonAveza/FilterSimpleJson/master/Image.png"
-  },
-  {
-    "itemNumber": "5",
-    "image": "https://raw.githubusercontent.com/JsonAveza/FilterSimpleJson/master/Image.png"
   }
 ]
